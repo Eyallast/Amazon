@@ -158,7 +158,6 @@ span {
 /* Product path */
 .product-path {
   display: block;
-  /* margin-left: 0; */
   padding: 0;
   margin: 0 0 0 220px;
   justify-content:space-around;
