@@ -1,0 +1,23 @@
+@media  (max-width: 1500px) {
+  .container {
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;}
+}
+
+
+
+
+@media (min-width: 1501) and (max-width: 1768px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+
+@media (min-width: 769)  {
+  body {
+    background-color: lightblue;
+  }
+}
